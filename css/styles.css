@@ -4,7 +4,7 @@
 [class*="zocial-"]:before {
     margin: 0 10px;
     font-family: 'zocial', sans-serif;
-    text-shadow: 3px 3px 3px #aaa;
+    text-shadow: 3px 3px 3px #AAA;
     width: 20vw;
 }
 
